@@ -9,8 +9,7 @@
  * Return: 1 is c if true else 0
 */
 
-int _isalpha(int c) 
+int _isalpha(int c)
 {
     return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
 }
-
