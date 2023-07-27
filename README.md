@@ -5,6 +5,7 @@
 ### 03 - Debugging
 ### 04 - More functions / Nested Loops
 ### 05 - Pointers / Arrays / Strings
+### 06 - Pointers / Arrays / Strings 2
 
 
 
